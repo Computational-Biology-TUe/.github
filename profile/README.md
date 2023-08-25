@@ -1,6 +1,6 @@
 ## Computational Biology Group
 
-**Welcome to the Computational Biology Github Page.!**
+**Welcome to the Computational Biology Github Page!**
 
 # About the research group
 The research group of computational biology is part of the department of biomedical engineering at the Eindhoven University of Technology. The group is led by prof. Natal van Riel. Our research topics include:
