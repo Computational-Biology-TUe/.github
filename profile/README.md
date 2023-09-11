@@ -10,13 +10,3 @@ The research group of computational biology is part of the department of biomedi
 * 🍎 Precision Nutrition (dr. Shauna O'Donovan)
 * 💻 Molecular Modelling (dr. Bart Markvoort)
 * 🤖 AI for Drug discovery (dr. Francesca Grisoni)
-
-# Introducing our PhD Candidates
-
-Oops... this cat decided to sit on this part of the Readme... Please hang on while we move it.
-```
-                 meow -    ╱| 、
-                          (˚ˎ。7  
-                           |、˜〵 |         
-                          じしˍ,)ノ
-```
