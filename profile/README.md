@@ -1,9 +1,9 @@
-## Computational Biology Group
+## Biomodelling research group
 
-**Welcome to the Computational Biology Github Page!**
+**Welcome to the Biomodelling Github Page!**
 
 # About the research group
-The research group of computational biology is part of the department of biomedical engineering at the Eindhoven University of Technology. The group is led by prof. Natal van Riel. Our research topics include:
+The research group of biomodelling is part of the department of biomedical engineering at the Eindhoven University of Technology. The group is led by prof. Natal van Riel. Our research topics include:
 * 🧬 Systems Biology & Metabolic Diseases (prof.dr. Natal van Riel)
 * 🩺 Clinical Data Science & Machine Learning (dr. Dragan Bosnacki)
 * 🦠 Systems Biology for Oncology (dr. Federica Eduati)
