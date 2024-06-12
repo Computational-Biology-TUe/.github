@@ -7,6 +7,6 @@ The research group of computational biology is part of the department of biomedi
 * 🧬 Systems Biology & Metabolic Diseases (prof.dr. Natal van Riel)
 * 🩺 Clinical Data Science & Machine Learning (dr. Dragan Bosnacki)
 * 🦠 Systems Biology for Oncology (dr. Federica Eduati)
-* 🍎 Precision Nutrition (dr. Shauna O'Donovan)
+* 🍎 Immuno Systems Biology (dr. Shauna O'Donovan)
 * 💻 Molecular Modelling (dr. Bart Markvoort)
 * 🤖 AI for Drug discovery (dr. Francesca Grisoni)
